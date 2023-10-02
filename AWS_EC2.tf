@@ -1,3 +1,5 @@
+#EC2 instances are a WIP
+/*
 data "aws_availability_zones" "az_available_spoke_1" {
 }
 
@@ -48,3 +50,4 @@ resource "aws_instance" "AWS_QA_Instance_1" {
     Tier = "DB"
   }
 }
+*/
