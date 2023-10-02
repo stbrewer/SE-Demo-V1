@@ -57,7 +57,7 @@ provider "google" {
 }
 
 resource "aviatrix_account" "test_gcp" {
-  account_name       = "GCP_Environment"
+  account_name       = "xxxx"
   cloud_type         = 4
   gcloud_project_id  = ""
   gcloud_project_credentials_filepath = "xxxx"
